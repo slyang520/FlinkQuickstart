@@ -11,7 +11,7 @@ flink 1.7x
 
 ```
    ./bin/start-cluster.sh
-   look at   http://localhost:8081
+   look at  http://localhost:8081
 ```
 
 2.运行任务在flink
@@ -21,6 +21,15 @@ mvn clean package
 flink run /YOUR_PATH/xx.jar
 ```
 
+
+3.更多例子 todo
+```
+
+DataStream applications 数据流
+DataSet applications    数据集
+Table API / SQL queries 表API/SQL
+
+```
 
 
 
