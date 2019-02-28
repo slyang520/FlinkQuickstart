@@ -22,11 +22,11 @@ flink run /YOUR_PATH/xx.jar
 ```
 
 
-3.更多例子 todo
+3.更多例子
 ```
 
-DataStream applications 数据流
-DataSet applications    数据集
+DataStream applications 数据流 todo
+DataSet applications    数据集 todo
 Table API / SQL queries 表API/SQL
 
 ```
